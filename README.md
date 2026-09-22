@@ -36,3 +36,19 @@
 <img width="810" height="229" alt="image" src="https://github.com/user-attachments/assets/c98f7ae0-d879-4fe2-b22c-2f549323a13c" />\
 Тест 2\
 <img width="831" height="240" alt="image" src="https://github.com/user-attachments/assets/a107dc4d-6728-48d7-ba95-3e07c0aa9c8a" />\
+Задание 3\
+Напишите программу, которая определяет, является ли введенный год високосным.\
+Требования к программе:\
+•	Программа должна запрашивать у пользователя ввод года.\
+•	Необходимо использовать условные операторы.\
+•	Должен выводиться результат.\
+Среда разработки\
+Язык программирования: Python.\
+Среда разработки: PyCharm 2025.2.0.1\
+Инструкция по работе\
+Пользователь вводит любой год(число не отрицательное).\
+Результаты тестирования\
+Тест 1\
+<img width="348" height="93" alt="image" src="https://github.com/user-attachments/assets/8d1df1a3-6d5c-45fd-803a-770e59ffb8ba" />\
+Тест 2\
+<img width="403" height="91" alt="image" src="https://github.com/user-attachments/assets/36728c96-827c-4fdf-93a2-3f8383b84be9" />
