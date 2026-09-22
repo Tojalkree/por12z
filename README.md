@@ -1,4 +1,4 @@
-<img width="520" height="205" alt="image" src="https://github.com/user-attachments/assets/24f04804-93d3-4d1b-a3ac-9f41476d3869" /># por12z
+# por12z
 Лабораторная работа №2 по прикладному программированию
 Исполнитель
 Янсуфин Айдар
